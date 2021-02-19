@@ -11,7 +11,7 @@ It appeared that none of such new features above added the edge in the ML model 
 - various manually tuned *lightgbm* and *xgboost* models 
 - 3 AutoML-backed models, using *AutoViML*, *AutoKeras* and *H2O AutoML*
 
-Note: Running *FeatureWiz Feature Selection - Genetic Dividers.ipynb* notebook under Windows 10 (Python 3.7, Anaconda) resulted at crashing both Anaconda runtime and the browser where Jupyter notebooks were operating.
+Note: Running *FeatureWiz Feature Selection - Genetic Dividers.ipynb* notebook under Windows 10 (Python 3.7, Anaconda) resulted in crashing both Anaconda runtime and the browser where Jupyter notebooks were operating.
 
 # AutoML Product Comparison on the Dataset
 
